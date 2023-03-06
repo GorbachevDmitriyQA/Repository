@@ -7,3 +7,4 @@ e
 Add new string for traine
 Add commit to the feature
 Add someone
+New changes to the main brunch par to the feature
