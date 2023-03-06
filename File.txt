@@ -4,3 +4,4 @@ ne
 w
 e
 e
+Add new string for traine
