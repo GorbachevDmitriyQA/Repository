@@ -5,3 +5,4 @@ w
 e
 e
 Add new string for traine
+Add commit to the feature
